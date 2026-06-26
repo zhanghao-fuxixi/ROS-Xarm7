@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Foundry>
+<VM>
+<VMId type="string">52 18 53 34 48 92 f3 57-d3 e0 c6 5a 88 21 11 c9</VMId>
+<ClientMetaData>
+<clientMetaDataAttributes/>
+<HistoryEventList/></ClientMetaData>
+<vmxPathName type="string">JetMax.vmx</vmxPathName></VM></Foundry>
